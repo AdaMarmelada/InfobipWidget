@@ -22,7 +22,7 @@
     </div>
   </div>
 </template>
-<script>/* eslint-disable */
+<script>
   export default {
     data () {
       return {
